@@ -1,0 +1,9 @@
+pandas
+numpy
+matplotlib
+scikit-learn
+opencv-python
+scikit-image
+
+# Optional (only if you want to programmatically build slides)
+# python-pptx
